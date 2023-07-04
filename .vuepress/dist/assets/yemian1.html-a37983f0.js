@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-4803ae2e","path":"/docs/theme-reco/yemian1.html","title":"简介介绍","lang":"en-US","frontmatter":{"title":"简介介绍","date":"2020/05/29"},"headers":[],"git":{},"filePathRelative":"docs/theme-reco/yemian1.md"}');export{e as data};

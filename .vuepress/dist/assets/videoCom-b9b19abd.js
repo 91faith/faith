@@ -1,1 +1,0 @@
-import{_ as e,o,c as _}from"./app-f94ce6ea.js";const s={},t={class:"main"};function c(n,a,d,i,r,p){return o(),_("div",t," 视频 ")}const m=e(s,[["render",c],["__scopeId","data-v-31249d74"],["__file","videoCom.vue"]]);export{m as default};
