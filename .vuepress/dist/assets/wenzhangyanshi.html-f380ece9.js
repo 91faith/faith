@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e29c5de4","path":"/docs/theme-reco/wenzhangyanshi.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/theme-reco/wenzhangyanshi.md"}');export{e as data};
